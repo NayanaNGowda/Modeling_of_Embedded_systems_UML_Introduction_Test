@@ -1,6 +1,6 @@
 🏠🐾 UML Modeling – Embedded Systems Project
-🏠 Introduction Test-Question 12
-Class diagram Implement a C++ or Java program and specify a class diagram for the following description. A house may have any number of pets living in it. The two possible types of pets that can live in a house are dogs and cats. Each dog or cat has a name. An animal’s house is its one and only home. You can tell an animal to make noise and it will do its thing. 
+ 🏠 Introduction Test-Question 12
+  Class diagram Implement a C++ or Java program and specify a class diagram for the following description. A house may have any number of pets living in it. The two possible types of pets that can live in a   house are dogs and cats. Each dog or cat has a name. An animal’s house is its one and only home. You can tell an animal to make noise and it will do its thing. 
 
 ## 📘 Description
 This project demonstrates **Object-Oriented Programming (OOP)** concepts in Java such as **inheritance**, **abstraction**, and **association** through a simple model of a **house** and its **pets**.
